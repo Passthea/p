@@ -178,6 +178,25 @@ ccdddddddbb55555555bddddccbddc.
 .........cc55555555c...........
 ..........cccccccccc...........
 `;
+            case "image4":
+            case "ruby":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . f f f f f f f . . . . . . 
+. . . f 1 8 f f 1 8 . . . . . . 
+. . . f 1 1 f f 1 1 . . . . . . 
+. . . f f f 4 f f f . . . . . . 
+. . . f f f f f f f . . . . . . 
+. . . f f f f f f f . . . . . . 
+. f f f f f f f f f f f . . . . 
+. . . f f 1 1 1 f f . . . . . . 
+. . . f 1 1 1 1 1 f . . . . . . 
+. . . f f 1 1 1 f f . . . . . . 
+. . . f f f f f f f . . . . . . 
+. . . . . 5 . . . 5 . . . . . . 
+. . . . . 5 . . . 5 . . . . . . 
+. . . . 5 . 5 . 5 . 5 . . . . . 
+`;
         }
         return null;
     })
